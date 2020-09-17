@@ -1,0 +1,9 @@
+header {
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #ffffff;
+    font-weight: bolder;
+    color: aliceblue;
+    padding: 100px 20px;
+    border-radius: 5px;
+}
